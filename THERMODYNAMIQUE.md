@@ -2,7 +2,7 @@
 
 (une série de posts sur la page Facebook de velivole.fr)
 
-## Le poids l'air
+## Le poids de l'air
 
 Le poids d'une masse d'air
 (une nouvelle série de posts avant d'annoncer une nouvelle fonctionnalité, la plus significative du site depuis sa création)
@@ -15,7 +15,7 @@ La plupart des gens sont surpris par le vrai poids de l'air. Voici une mnémotec
 
 Alors, retour à notre question amusante : si l'air chaud est plus léger que l'air froid, et que nous prenons une masse d'air de 1m³ à 25°C au niveau de la mer et que nous la réchauffons jusqu'à 30°C, combien va-t-elle peser?
 
-# La densité de l'air
+## La densité de l'air
 
 Comme certains entre vous ont bien remarqué, la masse d'un corps est la somme des masses des atomes qui le composent. En dehors du cas bien particulier de destruction d'atomes et transformation directe en énergie (E=mc²) lors d'une explosion nucléaire ou l'intérieur d'une étoile ou d'un réacteur nucléaire - dans tous les autres cas une des lois les plus fondamentales dans la nature s'applique - la loi de la conservation de la masse. Tant qu'il n'y a pas de réaction nucléaire, peu importe ce qu'on fait subir à un corps, sa masse reste constante. Par exemple, quand on fait bruler de l'essence dans un moteur, la somme de la masse des gaz d'échappement et les particules solides est précisément exacte à la masse du carburant consommé.
 
@@ -31,7 +31,7 @@ Alors est-ce que c'est le poids qui détermine la flottabilité? La flottabilit�
 
 Comme quelqu'un a bien remarqué que la densité de l'air à 30°C et à la pression du niveau de la mer est à peu près de 1.16kg/m³. Dans ce cas si notre masse d'air fait strictement le même poids qu'avant, il ne peut y avoir qu'une seule explication - son volume n'est pas le même qu'avant. Son volume est passé de 1m³ à 1.2/1.16=1.03m³. Elle a donc subit une détente. Le premier effet de la température dans un gaz est la pression. Quand on augmente la température, sa pression augmente aussi. Quand on chauffe une masse d'air, sous l'effet de sa nouvelle pression supérieure, elle va "repousser" l'air ambiant et elle va prendre plus de place avec une densité inférieure.
 
-# L'humidité de l'air (première partie)
+## L'humidité de l'air (première partie)
 
 Avant de parler des propriétés de l'humidité dans l'air, il faudra déjà définir ce que c'est.
 
@@ -64,7 +64,7 @@ La seule mesure absolue est donc l'humidité spécifique - et non pas l'humidit�
 
 Notre masse d'air continue son ascension. Elle arrive à 2000m / 800hPa / FL65. Sous l'effet de la détente adiabatique, sa température est maintenant de 8°C. Son humidité relative est maintenant supérieure à 100% - ce qui veut dire que notre masse d'air est devenue un nuage. Elle continuera son ascension pendant encore quelques temps suivant une transformation bien plus complexes qu'on verra par la suite.
 
-# L'eau
+## L'eau
 
 Avant d'entamer la deuxième partie sur l'humidité de l'air, il faudra parler un peu plus de l'eau, substance remarquable à propriétés uniques.
 
@@ -84,7 +84,7 @@ Les états liquide et gazeux existent toujours en parallèle. Si vous avez de l'
 
 Une autre qualité remarquable de l'eau, c'est que ces transitions entre vapeur et liquide sont très énergétiques. L'évaporation consomme de la chaleur. La condensation en produit en quantité strictement identique. Pour se rappeler lequel était lequel, penser à la transpiration, le mécanisme naturel de notre corps qui nous permet à transmettre notre chaleur à l'atmosphère. L'évaporation d'un litre d'eau nécessite 2500kJ à température ambiante. Sa condensation restitue cette chaleur. Pour se rendre compte à quel point cette valeur est importante - on peut la transformer en kW/h - on obtient 0.7 kW/h. La condensation d'un litre d'eau produit autant de chaleur qu'un four de cuisine moyen de 2kW en puissance maximale sur 20 minutes. Ceci s'applique également à la transition entre solide et liquide - tout le monde qui vit près d'un lac de montagne connait l'effet climatique du gel du lac - mais les proportions ne sont pas les mêmes - l'énergie de cette transition est de 333kJ par litre. La sublimation et la déposition produise, bien évidemment, la somme des deux.
 
-# L'humidité de l'air (deuxième partie)
+## L'humidité de l'air (deuxième partie)
 
 Là, maintenant, on peut finalement attaquer les fameux coefficients adiabatique et pseudo-adiabatique.
 
