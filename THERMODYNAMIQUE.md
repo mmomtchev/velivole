@@ -94,7 +94,7 @@ On a bien vu ce qui se passe quand l'air est sec et c'est relativement simple. S
 
 Quand il monte, il se retrouve entouré d'air dont la pression est inférieure et il se détend d'avantage pour égaliser cette pression. Quand il se détend, sa température baisse. Si on décide d'écrire et de développer les équations différentielles qui expriment les relations entre température, pression et altitude, on se rends compte que la plupart des variables peuvent être éliminées pour qu'à la fin il ne reste que (1). g~9.81m/s est l'accélération terrestre, C~1005J/kgK est la capacité thermique de l'air et pour rappel, un joule c'est un newton par mètre, donc un newton par joule c'est un mètre. Vous pouvez voir la dérivation complète ici:
 
-https://www.tec-science.com/mechanics/gases-and-liquids/barometric-formula-for-an-adiabatic-atmosphere/
+<https://www.tec-science.com/mechanics/gases-and-liquids/barometric-formula-for-an-adiabatic-atmosphere/>
 
 Le résultat est une constante, très pratique en plus, puisque très proche de 1°C / 100m. Quand une masse d'air monte, elle perd un degré tous les 100m à cause de la détente adiabatique.
 
