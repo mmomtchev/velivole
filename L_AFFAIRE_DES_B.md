@@ -25,6 +25,10 @@ C'est à ce moment, après le quatrième employeur consécutif et la troisième 
 
 Le chantage est tellement total que l'année dernière, quand j'ai contacté quelques fabricants de matériels pour le parapente pour leur proposer d'intégrer mon moteur de scoring (que j'ai aussi créer pendant cette période) à leurs équipements - gratuitement parce que je n'avais rien à faire - j'ai reçu un appel de la part d'un des représentants des cabinets de recrutement en informatique qui organisent le chantage pour m'expliquer que ça n'allait pas être possible - ils m'ont également dit que je n'étais pas bon en math - comme je refuse toujours de reconnaître le droit du Seigneur, on doit toujours me le rappeler - sinon, il se peut que je me fasse des idées comme quoi ce n'est pas de ma faute.
 
-Voici la situation actuelle avec le site. Si je ne peux pas trouver une société qui n'accepte pas de jouer à la schizophrénie avec du pénis et de la viagra - et de ne pas me laisser travailler pour me montrer que c'est moi qui a un problème - j'ai pris la décision ferme de vivre au RSA en foyer ou en camion et continuer à créer des logiciels open-source - ce que je fais depuis 2 ans déjà. J'espère que je vais pouvoir renouveler mon équipement informatique par les donations de mes utilisateurs.
+# La situation actuelle
+
+Voici la situation actuelle avec le site. Pendant les derniers 12 mois, j'ai reçu un nombre de propositions de sponsors, toutes avec des appels pour de la viagra en parallèle. Il est évident que dans cette situation, je ne pourrais pas avoir un vrai sponsor. Du coup, sans vous, le site ne pourra plus exister.
+
+Si je ne peux pas trouver une société qui n'accepte pas de jouer à la schizophrénie avec du pénis et de la viagra - et de ne pas me laisser travailler pour me montrer que c'est moi qui a un problème - j'ai pris la décision ferme de vivre au RSA en foyer ou en camion et continuer à créer des logiciels open-source - ce que je fais depuis 2 ans déjà. J'espère que je vais pouvoir renouveler mon équipement informatique par les donations de mes utilisateurs.
 
 Je crois qu'ainsi ma vie aura plus de sens.
