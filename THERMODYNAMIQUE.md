@@ -43,14 +43,15 @@ L'air qui porte des microgouttelettes d'eau liquide suffisamment légères pour 
 
 L'air peut contenir plus ou moins de la vapeur d'eau - de tous les gaz qui composent l'atmosphère terrestre, c'est le seul dont la quantité varie de façon très considérable. Ses propriétés font qu'il est aussi le seul gaz qui peut passer aisément de l'état gazeux à l'état liquide et à l'état solide aux températures et à la pression généralement constatées sur la Terre. L'oxygène et l'azote ont besoin de températures et pressions extrêmes pour devenir liquides.
 
-La quantité de vapeur d'eau qu'une masse d'air peut dissoudre est limitée et dépend de sa température et sa pression. On peut mesurer cette quantité d'au moins quatre façons différentes:
+La quantité de vapeur d'eau qu'une masse d'air peut dissoudre est limitée et dépend de sa température et sa pression. On peut mesurer cette quantité d'au moins cinq façons différentes:
 
 * L'humidité relative, qui est la mesure la plus connue au grand public, puisqu'elle exprime le mieux l'effet de l'humidité sur le corps humain - en allant de 0%, air complètement privé de vapeur d'eau à 100%, air saturé en vapeur - c'est là quand commence à avoir la buée blanche puisqu'une partie commence à condenser
 * L'humidité absolue, qu'on voit très rarement en dehors d'un contexte strictement scientifique, qui mesure la quantité de vapeur d'eau par volume de l'air, en grammes par mètre cube
-* L'humidité spécifique, qu'on aime bien en météorologie et qui est tracée sur les émagrammes, qui mesure la vapeur d'eau en grammes de vapeur d'eau par kilogramme d'air
+* Le rapport de mélange, qu'on aime bien en météorologie et qui est tracée sur les émagrammes, qui mesure la vapeur d'eau en grammes de vapeur d'eau par kilogramme d'air sec
+* L'humidité spécifique, qui est presque la même chose, sauf qu'on prends la masse totale de l'air - un rapport de mélange de 1g/kg est égale à une humidité spécifique de 1g/1.001kg - on compte aussi le poids de la vapeur - en réalité c'est presqu'identique pour les valeurs qu'on rencontre réellement
 * Le point de rosée, qu'on aime bien en aviation, qui est la température à laquelle une masse d'air sera à 100% de saturation - quand on baisse la température d'une masse d'air, sa capacité d'absorption de vapeur diminue ce qui fait que son taux d'humidité relative augmente
 
-Tous ces paramètres sont bien évidemment liés entre eux puisqu'ils expriment tous la même variable physique. Ces relations dépendent également de la température et la pression. Entre les quatre façons de mesurer l'humidité, la température et la pression, il suffit de trois variables pour qu'on puisse calculer les trois autres.
+Tous ces paramètres sont bien évidemment liés entre eux puisqu'ils expriment tous la même variable physique. Ces relations dépendent également de la température et la pression. Entre les cinq façons de mesurer l'humidité, la température et la pression, il suffit de trois variables pour qu'on puisse calculer les quatre qui restent.
 
 Quelle est la raison de privilégier l'humidité spécifique sur les émagrammes? De toutes les mesures, celle-là dispose d'une qualité qui la rend très pratique dans notre contexte - elle ne varie pas quand une masse d'air subit un changement thermodynamique. Prenons une masse d'air typique des Alpes en vallée, à 300m d'altitude, en été et en début de journée - 15°C et 75% d'humidité relative. Le point de rosée est alors à 10°C. Ceci veut dire que si la température de cette masse d'air baisse à 10°C, alors l'humidité relative sera à 100%, puisque sa capacité maximale de vapeur d'eau sera réduite.
 
