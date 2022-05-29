@@ -17,8 +17,18 @@ Si vous avez du temps et que vous êtes curieux de ce que c'est l'affaire des B,
 
 Je vous conseille également ma librairie JavaScript/TypeScript qui contient toutes les formules de base qui sont nécessaires pour faire du calcul thermodynamique appliqué au vol libre et le vol à voile: [velitherm](https://github.com/mmomtchev/velitherm).
 
-### Open-source software developed for velivole.fr
-### Logiciels open-source développés pour velivole.fr
+## Technical Documentation
+
+## Documentation technique
+
+![Architecture](https://raw.githubusercontent.com/mmomtchev/mmomtchev/master/velivole.fr-Architecture-Overview.svg)
+
+## API
+
+[apidoc](https://www.velivole.fr/apidoc/)
+
+## Open-source software developed for velivole.fr
+## Logiciels open-source développés pour velivole.fr
 
 * [node-gdal-async](https://github.com/mmomtchev/node-gdal-async) - I am actively developing the GDAL bindings for Node.js which used to be abandoned by its creator
   - [ndarray-gdal](https://github.com/mmomtchev/ndarray-gdal) is the [scijs](https://github.com/scijs/ndarray) plugin
