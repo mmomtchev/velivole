@@ -1,5 +1,7 @@
 # L'histoire de velivole.fr
 
+## L'affaire dite "des goûts et des tailles"
+
 Je suis né à Sofia en Bulgarie, je suis arrivé en France en '98 pour finir mes études avec une bourse d'excellence d'AUPEL-UREF. J'ai très bien réussi mes études - j'ai majoré ma promotion à la fois en Bulgarie et en France - et je me suis initialement dirigé vers le monde de la recherche *(je faisais du traitement parallèle - qui est la dernière étape de l'implémentation d'un modèle - mais je n'avais jamais fait de la météo avant velivole.fr)*. J'ai vite compris que je n'étais pas fait pour la recherche fondamentale et j'ai changé pour la R&D appliquée - la totalité de mon expérience professionnelle en France a été en R&D appliquée.
 
 ## Le droit du Seigneur à la supériorité sexuelle en France 
